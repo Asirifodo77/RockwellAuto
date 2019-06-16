@@ -1,1 +1,2 @@
 Adding changes in branch2 to resolve merge conflicts
+Adding changes in branch1
